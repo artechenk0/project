@@ -1,0 +1,7 @@
+C:\Users\allya\Desktop\Compilation part 2\LR15\LR15\bin\Debug\LR15.exe.config
+C:\Users\allya\Desktop\Compilation part 2\LR15\LR15\bin\Debug\LR15.exe
+C:\Users\allya\Desktop\Compilation part 2\LR15\LR15\bin\Debug\LR15.pdb
+C:\Users\allya\Desktop\Compilation part 2\LR15\LR15\obj\Debug\LR15.csproj.AssemblyReference.cache
+C:\Users\allya\Desktop\Compilation part 2\LR15\LR15\obj\Debug\LR15.csproj.CoreCompileInputs.cache
+C:\Users\allya\Desktop\Compilation part 2\LR15\LR15\obj\Debug\LR15.exe
+C:\Users\allya\Desktop\Compilation part 2\LR15\LR15\obj\Debug\LR15.pdb

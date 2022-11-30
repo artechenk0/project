@@ -1,0 +1,7 @@
+C:\Users\allya\Desktop\Compilation part 1\LR35\LR35\bin\Debug\LR35.exe.config
+C:\Users\allya\Desktop\Compilation part 1\LR35\LR35\bin\Debug\LR35.exe
+C:\Users\allya\Desktop\Compilation part 1\LR35\LR35\bin\Debug\LR35.pdb
+C:\Users\allya\Desktop\Compilation part 1\LR35\LR35\obj\Debug\LR35.csproj.AssemblyReference.cache
+C:\Users\allya\Desktop\Compilation part 1\LR35\LR35\obj\Debug\LR35.csproj.CoreCompileInputs.cache
+C:\Users\allya\Desktop\Compilation part 1\LR35\LR35\obj\Debug\LR35.exe
+C:\Users\allya\Desktop\Compilation part 1\LR35\LR35\obj\Debug\LR35.pdb

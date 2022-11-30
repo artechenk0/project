@@ -1,0 +1,7 @@
+C:\Users\allya\Desktop\Compilation part 2\LR11\LR11\bin\Debug\LR11.exe.config
+C:\Users\allya\Desktop\Compilation part 2\LR11\LR11\bin\Debug\LR11.exe
+C:\Users\allya\Desktop\Compilation part 2\LR11\LR11\bin\Debug\LR11.pdb
+C:\Users\allya\Desktop\Compilation part 2\LR11\LR11\obj\Debug\LR11.csproj.AssemblyReference.cache
+C:\Users\allya\Desktop\Compilation part 2\LR11\LR11\obj\Debug\LR11.csproj.CoreCompileInputs.cache
+C:\Users\allya\Desktop\Compilation part 2\LR11\LR11\obj\Debug\LR11.exe
+C:\Users\allya\Desktop\Compilation part 2\LR11\LR11\obj\Debug\LR11.pdb

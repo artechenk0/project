@@ -1,0 +1,42 @@
+﻿<Window x:Class="Project04.Windows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project04"
+        mc:Ignorable="d"
+        Title="Автоматизация работы транспортного агентства" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.3*"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="BtnAdd" Grid.Row="1" Content="Добавить" Click="BtnAdd_Click"/>
+        <Button x:Name="BtnEOptimal" Grid.Row="2" Content="Оптимальный маршрут" Click="BtnEOptimal_Click"/>
+        <Button x:Name="BtnGraphic" Grid.Row="3" Content="График" Click="BtnGraphic_Click"/>
+        <Button x:Name="BtnDelete" Grid.Row="4" Content="Удалить" Click="BtnDelete_Click"/>
+
+        <ListView x:Name="ListTraffic" Grid.Column="1" Grid.Row="1" Grid.RowSpan="5">
+            <ListView.View >
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding Type}" Header="Тип"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding StartDate}" Width="100" Header="Дата отправки"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding EndDate}" Header="Дата прибытия"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Distance}" Header="Дистанция"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding DistanceName}" Header="Пункт назначения"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding SiteCount}" Header="Кол-во мест"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding TicketPrice}" Header="Цена"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding TicketCount}" Header="Количество билетов"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

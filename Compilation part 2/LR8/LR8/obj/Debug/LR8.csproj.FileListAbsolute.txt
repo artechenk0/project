@@ -1,0 +1,7 @@
+C:\Users\artec\Desktop\Compilation part 2\LR8\LR8\bin\Debug\LR8.exe.config
+C:\Users\artec\Desktop\Compilation part 2\LR8\LR8\bin\Debug\LR8.exe
+C:\Users\artec\Desktop\Compilation part 2\LR8\LR8\bin\Debug\LR8.pdb
+C:\Users\artec\Desktop\Compilation part 2\LR8\LR8\obj\Debug\LR8.csproj.AssemblyReference.cache
+C:\Users\artec\Desktop\Compilation part 2\LR8\LR8\obj\Debug\LR8.csproj.CoreCompileInputs.cache
+C:\Users\artec\Desktop\Compilation part 2\LR8\LR8\obj\Debug\LR8.exe
+C:\Users\artec\Desktop\Compilation part 2\LR8\LR8\obj\Debug\LR8.pdb

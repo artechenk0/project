@@ -1,0 +1,7 @@
+C:\Users\allya\source\repos\LR27\LR27\bin\Debug\LR27.exe.config
+C:\Users\allya\source\repos\LR27\LR27\bin\Debug\LR27.exe
+C:\Users\allya\source\repos\LR27\LR27\bin\Debug\LR27.pdb
+C:\Users\allya\source\repos\LR27\LR27\obj\Debug\LR27.csproj.AssemblyReference.cache
+C:\Users\allya\source\repos\LR27\LR27\obj\Debug\LR27.csproj.CoreCompileInputs.cache
+C:\Users\allya\source\repos\LR27\LR27\obj\Debug\LR27.exe
+C:\Users\allya\source\repos\LR27\LR27\obj\Debug\LR27.pdb

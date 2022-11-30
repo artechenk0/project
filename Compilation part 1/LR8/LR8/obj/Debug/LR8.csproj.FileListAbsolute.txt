@@ -1,0 +1,7 @@
+C:\Users\allya\Desktop\Compilation part 1\LR8\LR8\bin\Debug\LR8.exe.config
+C:\Users\allya\Desktop\Compilation part 1\LR8\LR8\bin\Debug\LR8.exe
+C:\Users\allya\Desktop\Compilation part 1\LR8\LR8\bin\Debug\LR8.pdb
+C:\Users\allya\Desktop\Compilation part 1\LR8\LR8\obj\Debug\LR8.csproj.AssemblyReference.cache
+C:\Users\allya\Desktop\Compilation part 1\LR8\LR8\obj\Debug\LR8.csproj.CoreCompileInputs.cache
+C:\Users\allya\Desktop\Compilation part 1\LR8\LR8\obj\Debug\LR8.exe
+C:\Users\allya\Desktop\Compilation part 1\LR8\LR8\obj\Debug\LR8.pdb

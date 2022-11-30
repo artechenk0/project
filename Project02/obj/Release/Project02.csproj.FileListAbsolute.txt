@@ -1,0 +1,34 @@
+C:\Users\artec\Desktop\Проеты по МДК 01.01\Project02\bin\Release\Project02.exe.config
+C:\Users\artec\Desktop\Проеты по МДК 01.01\Project02\bin\Release\Project02.exe
+C:\Users\artec\Desktop\Проеты по МДК 01.01\Project02\bin\Release\Project02.pdb
+C:\Users\artec\Desktop\Проеты по МДК 01.01\Project02\obj\Release\Project02.csproj.AssemblyReference.cache
+C:\Users\artec\Desktop\Проеты по МДК 01.01\Project02\obj\Release\Windows\AddStudent.g.cs
+C:\Users\artec\Desktop\Проеты по МДК 01.01\Project02\obj\Release\Windows\MainWindow.g.cs
+C:\Users\artec\Desktop\Проеты по МДК 01.01\Project02\obj\Release\App.g.cs
+C:\Users\artec\Desktop\Проеты по МДК 01.01\Project02\obj\Release\Project02_MarkupCompile.cache
+C:\Users\artec\Desktop\Проеты по МДК 01.01\Project02\obj\Release\Project02_MarkupCompile.lref
+C:\Users\artec\Desktop\Проеты по МДК 01.01\Project02\obj\Release\Windows\AddStudent.baml
+C:\Users\artec\Desktop\Проеты по МДК 01.01\Project02\obj\Release\Windows\MainWindow.baml
+C:\Users\artec\Desktop\Проеты по МДК 01.01\Project02\obj\Release\Project02.g.resources
+C:\Users\artec\Desktop\Проеты по МДК 01.01\Project02\obj\Release\Project02.Properties.Resources.resources
+C:\Users\artec\Desktop\Проеты по МДК 01.01\Project02\obj\Release\Project02.csproj.GenerateResource.cache
+C:\Users\artec\Desktop\Проеты по МДК 01.01\Project02\obj\Release\Project02.csproj.CoreCompileInputs.cache
+C:\Users\artec\Desktop\Проеты по МДК 01.01\Project02\obj\Release\Project02.exe
+C:\Users\artec\Desktop\Проеты по МДК 01.01\Project02\obj\Release\Project02.pdb
+C:\Users\allya\Desktop\проекты\Project02\bin\Release\Project02.exe.config
+C:\Users\allya\Desktop\проекты\Project02\bin\Release\Project02.exe
+C:\Users\allya\Desktop\проекты\Project02\bin\Release\Project02.pdb
+C:\Users\allya\Desktop\проекты\Project02\obj\Release\Project02.csproj.AssemblyReference.cache
+C:\Users\allya\Desktop\проекты\Project02\obj\Release\Windows\AddStudent.g.cs
+C:\Users\allya\Desktop\проекты\Project02\obj\Release\Windows\MainWindow.g.cs
+C:\Users\allya\Desktop\проекты\Project02\obj\Release\App.g.cs
+C:\Users\allya\Desktop\проекты\Project02\obj\Release\Project02_MarkupCompile.cache
+C:\Users\allya\Desktop\проекты\Project02\obj\Release\Project02_MarkupCompile.lref
+C:\Users\allya\Desktop\проекты\Project02\obj\Release\Windows\AddStudent.baml
+C:\Users\allya\Desktop\проекты\Project02\obj\Release\Windows\MainWindow.baml
+C:\Users\allya\Desktop\проекты\Project02\obj\Release\Project02.g.resources
+C:\Users\allya\Desktop\проекты\Project02\obj\Release\Project02.Properties.Resources.resources
+C:\Users\allya\Desktop\проекты\Project02\obj\Release\Project02.csproj.GenerateResource.cache
+C:\Users\allya\Desktop\проекты\Project02\obj\Release\Project02.csproj.CoreCompileInputs.cache
+C:\Users\allya\Desktop\проекты\Project02\obj\Release\Project02.exe
+C:\Users\allya\Desktop\проекты\Project02\obj\Release\Project02.pdb

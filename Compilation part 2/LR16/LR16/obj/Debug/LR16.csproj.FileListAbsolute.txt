@@ -1,0 +1,7 @@
+C:\Users\allya\Desktop\Compilation part 2\LR16\LR16\bin\Debug\LR16.exe.config
+C:\Users\allya\Desktop\Compilation part 2\LR16\LR16\bin\Debug\LR16.exe
+C:\Users\allya\Desktop\Compilation part 2\LR16\LR16\bin\Debug\LR16.pdb
+C:\Users\allya\Desktop\Compilation part 2\LR16\LR16\obj\Debug\LR16.csproj.AssemblyReference.cache
+C:\Users\allya\Desktop\Compilation part 2\LR16\LR16\obj\Debug\LR16.csproj.CoreCompileInputs.cache
+C:\Users\allya\Desktop\Compilation part 2\LR16\LR16\obj\Debug\LR16.exe
+C:\Users\allya\Desktop\Compilation part 2\LR16\LR16\obj\Debug\LR16.pdb

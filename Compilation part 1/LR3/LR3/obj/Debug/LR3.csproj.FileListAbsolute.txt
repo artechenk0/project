@@ -1,0 +1,7 @@
+C:\Users\allya\Desktop\Compilation part 1\LR3\LR3\bin\Debug\LR3.exe.config
+C:\Users\allya\Desktop\Compilation part 1\LR3\LR3\bin\Debug\LR3.exe
+C:\Users\allya\Desktop\Compilation part 1\LR3\LR3\bin\Debug\LR3.pdb
+C:\Users\allya\Desktop\Compilation part 1\LR3\LR3\obj\Debug\LR3.csproj.AssemblyReference.cache
+C:\Users\allya\Desktop\Compilation part 1\LR3\LR3\obj\Debug\LR3.csproj.CoreCompileInputs.cache
+C:\Users\allya\Desktop\Compilation part 1\LR3\LR3\obj\Debug\LR3.exe
+C:\Users\allya\Desktop\Compilation part 1\LR3\LR3\obj\Debug\LR3.pdb

@@ -1,0 +1,7 @@
+C:\Users\artec\Desktop\Проекты по МДК 01.02\Compilation part 1\LR11\LR11\bin\Debug\LR11.exe.config
+C:\Users\artec\Desktop\Проекты по МДК 01.02\Compilation part 1\LR11\LR11\bin\Debug\LR11.exe
+C:\Users\artec\Desktop\Проекты по МДК 01.02\Compilation part 1\LR11\LR11\bin\Debug\LR11.pdb
+C:\Users\artec\Desktop\Проекты по МДК 01.02\Compilation part 1\LR11\LR11\obj\Debug\LR11.csproj.AssemblyReference.cache
+C:\Users\artec\Desktop\Проекты по МДК 01.02\Compilation part 1\LR11\LR11\obj\Debug\LR11.csproj.CoreCompileInputs.cache
+C:\Users\artec\Desktop\Проекты по МДК 01.02\Compilation part 1\LR11\LR11\obj\Debug\LR11.exe
+C:\Users\artec\Desktop\Проекты по МДК 01.02\Compilation part 1\LR11\LR11\obj\Debug\LR11.pdb

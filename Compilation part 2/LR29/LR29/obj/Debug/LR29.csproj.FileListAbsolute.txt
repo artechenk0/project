@@ -1,0 +1,7 @@
+C:\Users\allya\source\repos\LR29\LR29\bin\Debug\LR29.exe.config
+C:\Users\allya\source\repos\LR29\LR29\bin\Debug\LR29.exe
+C:\Users\allya\source\repos\LR29\LR29\bin\Debug\LR29.pdb
+C:\Users\allya\source\repos\LR29\LR29\obj\Debug\LR29.csproj.AssemblyReference.cache
+C:\Users\allya\source\repos\LR29\LR29\obj\Debug\LR29.csproj.CoreCompileInputs.cache
+C:\Users\allya\source\repos\LR29\LR29\obj\Debug\LR29.exe
+C:\Users\allya\source\repos\LR29\LR29\obj\Debug\LR29.pdb

@@ -1,0 +1,7 @@
+C:\Users\artec\source\repos\LR17\LR17\bin\Debug\LR17.exe.config
+C:\Users\artec\source\repos\LR17\LR17\bin\Debug\LR17.exe
+C:\Users\artec\source\repos\LR17\LR17\bin\Debug\LR17.pdb
+C:\Users\artec\source\repos\LR17\LR17\obj\Debug\LR17.csproj.AssemblyReference.cache
+C:\Users\artec\source\repos\LR17\LR17\obj\Debug\LR17.csproj.CoreCompileInputs.cache
+C:\Users\artec\source\repos\LR17\LR17\obj\Debug\LR17.exe
+C:\Users\artec\source\repos\LR17\LR17\obj\Debug\LR17.pdb

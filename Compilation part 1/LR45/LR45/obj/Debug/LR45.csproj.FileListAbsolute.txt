@@ -1,0 +1,7 @@
+C:\Users\allya\Desktop\Compilation part 1\LR45\LR45\bin\Debug\LR45.exe.config
+C:\Users\allya\Desktop\Compilation part 1\LR45\LR45\bin\Debug\LR45.exe
+C:\Users\allya\Desktop\Compilation part 1\LR45\LR45\bin\Debug\LR45.pdb
+C:\Users\allya\Desktop\Compilation part 1\LR45\LR45\obj\Debug\LR45.csproj.AssemblyReference.cache
+C:\Users\allya\Desktop\Compilation part 1\LR45\LR45\obj\Debug\LR45.csproj.CoreCompileInputs.cache
+C:\Users\allya\Desktop\Compilation part 1\LR45\LR45\obj\Debug\LR45.exe
+C:\Users\allya\Desktop\Compilation part 1\LR45\LR45\obj\Debug\LR45.pdb

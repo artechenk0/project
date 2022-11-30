@@ -1,0 +1,43 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project04.Windows"
+        xmlns:Project04="clr-namespace:Project04" x:Class="Project04.Windows.Optimal"
+        mc:Ignorable="d"
+        Title="Otimal" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Button x:Name="BtnOptimal" Content="Подобрать оптимальный маршрут" Grid.Row="1"/>
+        <ComboBox x:Name="CmbOptimal" ItemsSource="{Binding AllDistance}">
+            
+        </ComboBox>
+
+        <ListView x:Name="ListOptimal" Grid.Column="1" Grid.RowSpan="3">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding Type}" Header="Тип"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding StartDate}" Width="100" Header="Дата отправки"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding EndDate}" Header="Дата прибытия"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Distance}" Header="Дистанция"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding DistanceName}" Header="Пункт назначения"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding SiteCount}" Header="Кол-во мест"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding TicketPrice}" Header="Цена"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding TicketCount}" Header="Количество билетов"/>
+                </GridView>
+            </ListView.View>
+            <Project04:Traffic/>
+        </ListView>
+    </Grid>
+</Window>

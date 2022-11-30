@@ -1,0 +1,7 @@
+C:\Users\artec\Desktop\Compilation part 2\LR5\LR5\bin\Debug\LR5.exe.config
+C:\Users\artec\Desktop\Compilation part 2\LR5\LR5\bin\Debug\LR5.exe
+C:\Users\artec\Desktop\Compilation part 2\LR5\LR5\bin\Debug\LR5.pdb
+C:\Users\artec\Desktop\Compilation part 2\LR5\LR5\obj\Debug\LR5.csproj.AssemblyReference.cache
+C:\Users\artec\Desktop\Compilation part 2\LR5\LR5\obj\Debug\LR5.csproj.CoreCompileInputs.cache
+C:\Users\artec\Desktop\Compilation part 2\LR5\LR5\obj\Debug\LR5.exe
+C:\Users\artec\Desktop\Compilation part 2\LR5\LR5\obj\Debug\LR5.pdb

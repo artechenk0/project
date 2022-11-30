@@ -1,0 +1,59 @@
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project08\bin\Debug\Project08.exe.config
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project08\bin\Debug\Project08.exe
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project08\bin\Debug\Project08.pdb
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project08\obj\Debug\Project08.csproj.AssemblyReference.cache
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project08\obj\Debug\App.g.cs
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project08\obj\Debug\Project08_MarkupCompile.cache
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project08\obj\Debug\Project08_MarkupCompile.lref
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project08\obj\Debug\Project08.g.resources
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project08\obj\Debug\Project08.Properties.Resources.resources
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project08\obj\Debug\Project08.csproj.GenerateResource.cache
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project08\obj\Debug\Project08.csproj.CoreCompileInputs.cache
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project08\obj\Debug\Project08.exe
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project08\obj\Debug\Project08.pdb
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project08\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project08\obj\Debug\Windows\Result.g.cs
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project08\obj\Debug\Windows\MainWindow.baml
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project08\obj\Debug\Windows\Result.baml
+C:\Users\allya\Desktop\проекты\Project08\bin\Debug\Project08.exe.config
+C:\Users\allya\Desktop\проекты\Project08\bin\Debug\Project08.exe
+C:\Users\allya\Desktop\проекты\Project08\bin\Debug\Project08.pdb
+C:\Users\allya\Desktop\проекты\Project08\obj\Debug\Project08.csproj.AssemblyReference.cache
+C:\Users\allya\Desktop\проекты\Project08\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\allya\Desktop\проекты\Project08\obj\Debug\App.g.cs
+C:\Users\allya\Desktop\проекты\Project08\obj\Debug\Project08_MarkupCompile.cache
+C:\Users\allya\Desktop\проекты\Project08\obj\Debug\Project08_MarkupCompile.lref
+C:\Users\allya\Desktop\проекты\Project08\obj\Debug\Windows\MainWindow.baml
+C:\Users\allya\Desktop\проекты\Project08\obj\Debug\Project08.g.resources
+C:\Users\allya\Desktop\проекты\Project08\obj\Debug\Project08.Properties.Resources.resources
+C:\Users\allya\Desktop\проекты\Project08\obj\Debug\Project08.csproj.GenerateResource.cache
+C:\Users\allya\Desktop\проекты\Project08\obj\Debug\Project08.csproj.CoreCompileInputs.cache
+C:\Users\allya\Desktop\проекты\Project08\obj\Debug\Project08.exe
+C:\Users\allya\Desktop\проекты\Project08\obj\Debug\Project08.pdb
+C:\Users\artec\Desktop\Проекты по МДК\Project08\obj\Debug\Project08.csproj.AssemblyReference.cache
+C:\Users\artec\Desktop\Проекты по МДК\Project08\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\artec\Desktop\Проекты по МДК\Project08\obj\Debug\App.g.cs
+C:\Users\artec\Desktop\Проекты по МДК\Project08\obj\Debug\Project08_MarkupCompile.cache
+C:\Users\artec\Desktop\Проекты по МДК\Project08\obj\Debug\Project08_MarkupCompile.lref
+C:\Users\artec\Desktop\Проекты по МДК\Project08\obj\Debug\Project08.exe
+C:\Users\artec\Desktop\Проекты по МДК\Project08\obj\Debug\Project08.pdb
+C:\Users\artec\Desktop\Проекты по МДК\Project08\bin\Debug\Project08.exe.config
+C:\Users\artec\Desktop\Проекты по МДК\Project08\bin\Debug\Project08.exe
+C:\Users\artec\Desktop\Проекты по МДК\Project08\bin\Debug\Project08.pdb
+C:\Users\artec\Desktop\Проекты по МДК\Project08\obj\Debug\Windows\MainWindow.baml
+C:\Users\artec\Desktop\Проекты по МДК\Project08\obj\Debug\Project08.g.resources
+C:\Users\artec\Desktop\Проекты по МДК\Project08\obj\Debug\Project08.Properties.Resources.resources
+C:\Users\artec\Desktop\Проекты по МДК\Project08\obj\Debug\Project08.csproj.GenerateResource.cache
+C:\Users\artec\Desktop\Проекты по МДК\Project08\obj\Debug\Project08.csproj.CoreCompileInputs.cache
+C:\Users\artec\Desktop\Проекты по МДК\Project08\obj\Debug\Windows\Result.g.cs
+C:\Users\artec\Desktop\Проекты по МДК\Project08\obj\Debug\Windows\Result.baml
+C:\Users\artec\Desktop\Проекты по МДК\Project08\obj\Debug\App.baml
+C:\Users\artec\Desktop\Проекты по МДК\Project08\bin\Debug\ScottPlot.dll
+C:\Users\artec\Desktop\Проекты по МДК\Project08\bin\Debug\ScottPlot.WPF.dll
+C:\Users\artec\Desktop\Проекты по МДК\Project08\bin\Debug\System.Drawing.Common.dll
+C:\Users\artec\Desktop\Проекты по МДК\Project08\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\artec\Desktop\Проекты по МДК\Project08\bin\Debug\System.ValueTuple.dll
+C:\Users\artec\Desktop\Проекты по МДК\Project08\bin\Debug\ScottPlot.xml
+C:\Users\artec\Desktop\Проекты по МДК\Project08\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\artec\Desktop\Проекты по МДК\Project08\bin\Debug\System.ValueTuple.xml
+C:\Users\artec\Desktop\Проекты по МДК\Project08\obj\Debug\Project08.csproj.CopyComplete

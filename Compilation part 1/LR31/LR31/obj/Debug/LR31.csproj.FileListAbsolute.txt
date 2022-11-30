@@ -1,0 +1,7 @@
+C:\Users\allya\Desktop\Compilation part 1\LR31\LR31\bin\Debug\LR31.exe.config
+C:\Users\allya\Desktop\Compilation part 1\LR31\LR31\bin\Debug\LR31.exe
+C:\Users\allya\Desktop\Compilation part 1\LR31\LR31\bin\Debug\LR31.pdb
+C:\Users\allya\Desktop\Compilation part 1\LR31\LR31\obj\Debug\LR31.csproj.AssemblyReference.cache
+C:\Users\allya\Desktop\Compilation part 1\LR31\LR31\obj\Debug\LR31.csproj.CoreCompileInputs.cache
+C:\Users\allya\Desktop\Compilation part 1\LR31\LR31\obj\Debug\LR31.exe
+C:\Users\allya\Desktop\Compilation part 1\LR31\LR31\obj\Debug\LR31.pdb

@@ -1,0 +1,7 @@
+C:\Users\artec\source\repos\LR28\LR28\bin\Debug\LR28.exe.config
+C:\Users\artec\source\repos\LR28\LR28\bin\Debug\LR28.exe
+C:\Users\artec\source\repos\LR28\LR28\bin\Debug\LR28.pdb
+C:\Users\artec\source\repos\LR28\LR28\obj\Debug\LR28.csproj.AssemblyReference.cache
+C:\Users\artec\source\repos\LR28\LR28\obj\Debug\LR28.csproj.CoreCompileInputs.cache
+C:\Users\artec\source\repos\LR28\LR28\obj\Debug\LR28.exe
+C:\Users\artec\source\repos\LR28\LR28\obj\Debug\LR28.pdb

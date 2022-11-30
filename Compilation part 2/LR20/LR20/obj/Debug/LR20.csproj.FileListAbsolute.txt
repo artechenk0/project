@@ -1,0 +1,7 @@
+C:\Users\artec\source\repos\LR20\LR20\bin\Debug\LR20.exe.config
+C:\Users\artec\source\repos\LR20\LR20\bin\Debug\LR20.exe
+C:\Users\artec\source\repos\LR20\LR20\bin\Debug\LR20.pdb
+C:\Users\artec\source\repos\LR20\LR20\obj\Debug\LR20.csproj.AssemblyReference.cache
+C:\Users\artec\source\repos\LR20\LR20\obj\Debug\LR20.csproj.CoreCompileInputs.cache
+C:\Users\artec\source\repos\LR20\LR20\obj\Debug\LR20.exe
+C:\Users\artec\source\repos\LR20\LR20\obj\Debug\LR20.pdb

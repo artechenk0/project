@@ -1,0 +1,7 @@
+C:\Users\artec\source\repos\LR26\LR26\bin\Debug\LR26.exe.config
+C:\Users\artec\source\repos\LR26\LR26\bin\Debug\LR26.exe
+C:\Users\artec\source\repos\LR26\LR26\bin\Debug\LR26.pdb
+C:\Users\artec\source\repos\LR26\LR26\obj\Debug\LR26.csproj.AssemblyReference.cache
+C:\Users\artec\source\repos\LR26\LR26\obj\Debug\LR26.csproj.CoreCompileInputs.cache
+C:\Users\artec\source\repos\LR26\LR26\obj\Debug\LR26.exe
+C:\Users\artec\source\repos\LR26\LR26\obj\Debug\LR26.pdb

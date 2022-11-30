@@ -1,0 +1,14 @@
+C:\Users\artec\Desktop\Project 01\bin\Release\Project 01.exe.config
+C:\Users\artec\Desktop\Project 01\bin\Release\Project 01.exe
+C:\Users\artec\Desktop\Project 01\bin\Release\Project 01.pdb
+C:\Users\artec\Desktop\Project 01\obj\Release\MainWindow.g.cs
+C:\Users\artec\Desktop\Project 01\obj\Release\App.g.cs
+C:\Users\artec\Desktop\Project 01\obj\Release\Project 01_MarkupCompile.cache
+C:\Users\artec\Desktop\Project 01\obj\Release\Project 01_MarkupCompile.lref
+C:\Users\artec\Desktop\Project 01\obj\Release\MainWindow.baml
+C:\Users\artec\Desktop\Project 01\obj\Release\Project 01.g.resources
+C:\Users\artec\Desktop\Project 01\obj\Release\Project_01.Properties.Resources.resources
+C:\Users\artec\Desktop\Project 01\obj\Release\Project 01.csproj.GenerateResource.cache
+C:\Users\artec\Desktop\Project 01\obj\Release\Project 01.csproj.CoreCompileInputs.cache
+C:\Users\artec\Desktop\Project 01\obj\Release\Project 01.exe
+C:\Users\artec\Desktop\Project 01\obj\Release\Project 01.pdb

@@ -1,0 +1,7 @@
+C:\Users\allya\Desktop\Compilation part 1\LR40\LR40\bin\Debug\LR40.exe.config
+C:\Users\allya\Desktop\Compilation part 1\LR40\LR40\bin\Debug\LR40.exe
+C:\Users\allya\Desktop\Compilation part 1\LR40\LR40\bin\Debug\LR40.pdb
+C:\Users\allya\Desktop\Compilation part 1\LR40\LR40\obj\Debug\LR40.csproj.AssemblyReference.cache
+C:\Users\allya\Desktop\Compilation part 1\LR40\LR40\obj\Debug\LR40.csproj.CoreCompileInputs.cache
+C:\Users\allya\Desktop\Compilation part 1\LR40\LR40\obj\Debug\LR40.exe
+C:\Users\allya\Desktop\Compilation part 1\LR40\LR40\obj\Debug\LR40.pdb

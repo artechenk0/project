@@ -1,0 +1,7 @@
+C:\Users\artec\source\repos\LR24\LR24\bin\Debug\LR24.exe.config
+C:\Users\artec\source\repos\LR24\LR24\bin\Debug\LR24.exe
+C:\Users\artec\source\repos\LR24\LR24\bin\Debug\LR24.pdb
+C:\Users\artec\source\repos\LR24\LR24\obj\Debug\LR24.csproj.AssemblyReference.cache
+C:\Users\artec\source\repos\LR24\LR24\obj\Debug\LR24.csproj.CoreCompileInputs.cache
+C:\Users\artec\source\repos\LR24\LR24\obj\Debug\LR24.exe
+C:\Users\artec\source\repos\LR24\LR24\obj\Debug\LR24.pdb

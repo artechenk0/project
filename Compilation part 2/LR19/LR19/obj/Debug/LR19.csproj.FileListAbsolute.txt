@@ -1,0 +1,14 @@
+C:\Users\allya\Desktop\Compilation part 2\LR19\LR19\bin\Debug\LR19.exe.config
+C:\Users\allya\Desktop\Compilation part 2\LR19\LR19\bin\Debug\LR19.exe
+C:\Users\allya\Desktop\Compilation part 2\LR19\LR19\bin\Debug\LR19.pdb
+C:\Users\allya\Desktop\Compilation part 2\LR19\LR19\obj\Debug\LR19.csproj.AssemblyReference.cache
+C:\Users\allya\Desktop\Compilation part 2\LR19\LR19\obj\Debug\LR19.csproj.CoreCompileInputs.cache
+C:\Users\allya\Desktop\Compilation part 2\LR19\LR19\obj\Debug\LR19.exe
+C:\Users\allya\Desktop\Compilation part 2\LR19\LR19\obj\Debug\LR19.pdb
+C:\Users\artec\Desktop\Compilation part 2\LR19\LR19\bin\Debug\LR19.exe.config
+C:\Users\artec\Desktop\Compilation part 2\LR19\LR19\bin\Debug\LR19.exe
+C:\Users\artec\Desktop\Compilation part 2\LR19\LR19\bin\Debug\LR19.pdb
+C:\Users\artec\Desktop\Compilation part 2\LR19\LR19\obj\Debug\LR19.csproj.AssemblyReference.cache
+C:\Users\artec\Desktop\Compilation part 2\LR19\LR19\obj\Debug\LR19.csproj.CoreCompileInputs.cache
+C:\Users\artec\Desktop\Compilation part 2\LR19\LR19\obj\Debug\LR19.exe
+C:\Users\artec\Desktop\Compilation part 2\LR19\LR19\obj\Debug\LR19.pdb

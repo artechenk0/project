@@ -1,0 +1,7 @@
+C:\Users\allya\Desktop\Compilation part 1\LR38\LR38\bin\Debug\LR38.exe.config
+C:\Users\allya\Desktop\Compilation part 1\LR38\LR38\bin\Debug\LR38.exe
+C:\Users\allya\Desktop\Compilation part 1\LR38\LR38\bin\Debug\LR38.pdb
+C:\Users\allya\Desktop\Compilation part 1\LR38\LR38\obj\Debug\LR38.csproj.AssemblyReference.cache
+C:\Users\allya\Desktop\Compilation part 1\LR38\LR38\obj\Debug\LR38.csproj.CoreCompileInputs.cache
+C:\Users\allya\Desktop\Compilation part 1\LR38\LR38\obj\Debug\LR38.exe
+C:\Users\allya\Desktop\Compilation part 1\LR38\LR38\obj\Debug\LR38.pdb

@@ -1,0 +1,7 @@
+C:\Users\allya\Desktop\Compilation part 1\LR4\LR4\bin\Debug\LR4.exe.config
+C:\Users\allya\Desktop\Compilation part 1\LR4\LR4\bin\Debug\LR4.exe
+C:\Users\allya\Desktop\Compilation part 1\LR4\LR4\bin\Debug\LR4.pdb
+C:\Users\allya\Desktop\Compilation part 1\LR4\LR4\obj\Debug\LR4.csproj.AssemblyReference.cache
+C:\Users\allya\Desktop\Compilation part 1\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+C:\Users\allya\Desktop\Compilation part 1\LR4\LR4\obj\Debug\LR4.exe
+C:\Users\allya\Desktop\Compilation part 1\LR4\LR4\obj\Debug\LR4.pdb

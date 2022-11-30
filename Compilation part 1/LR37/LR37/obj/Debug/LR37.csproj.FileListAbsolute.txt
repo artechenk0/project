@@ -1,0 +1,7 @@
+C:\Users\allya\Desktop\Compilation part 1\LR37\LR37\bin\Debug\LR37.exe.config
+C:\Users\allya\Desktop\Compilation part 1\LR37\LR37\bin\Debug\LR37.exe
+C:\Users\allya\Desktop\Compilation part 1\LR37\LR37\bin\Debug\LR37.pdb
+C:\Users\allya\Desktop\Compilation part 1\LR37\LR37\obj\Debug\LR37.csproj.AssemblyReference.cache
+C:\Users\allya\Desktop\Compilation part 1\LR37\LR37\obj\Debug\LR37.csproj.CoreCompileInputs.cache
+C:\Users\allya\Desktop\Compilation part 1\LR37\LR37\obj\Debug\LR37.exe
+C:\Users\allya\Desktop\Compilation part 1\LR37\LR37\obj\Debug\LR37.pdb

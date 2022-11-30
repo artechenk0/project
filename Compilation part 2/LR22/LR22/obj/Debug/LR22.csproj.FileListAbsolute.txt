@@ -1,0 +1,7 @@
+C:\Users\artec\source\repos\LR22\LR22\bin\Debug\LR22.exe.config
+C:\Users\artec\source\repos\LR22\LR22\bin\Debug\LR22.exe
+C:\Users\artec\source\repos\LR22\LR22\bin\Debug\LR22.pdb
+C:\Users\artec\source\repos\LR22\LR22\obj\Debug\LR22.csproj.AssemblyReference.cache
+C:\Users\artec\source\repos\LR22\LR22\obj\Debug\LR22.csproj.CoreCompileInputs.cache
+C:\Users\artec\source\repos\LR22\LR22\obj\Debug\LR22.exe
+C:\Users\artec\source\repos\LR22\LR22\obj\Debug\LR22.pdb

@@ -1,0 +1,80 @@
+C:\Users\artec\source\repos\Project06\bin\Debug\Project06.exe.config
+C:\Users\artec\source\repos\Project06\bin\Debug\Project06.exe
+C:\Users\artec\source\repos\Project06\bin\Debug\Project06.pdb
+C:\Users\artec\source\repos\Project06\obj\Debug\Project06.csproj.AssemblyReference.cache
+C:\Users\artec\source\repos\Project06\obj\Debug\MainWindow.baml
+C:\Users\artec\source\repos\Project06\obj\Debug\MainWindow.g.cs
+C:\Users\artec\source\repos\Project06\obj\Debug\App.g.cs
+C:\Users\artec\source\repos\Project06\obj\Debug\Project06_MarkupCompile.cache
+C:\Users\artec\source\repos\Project06\obj\Debug\Project06.g.resources
+C:\Users\artec\source\repos\Project06\obj\Debug\Project06.Properties.Resources.resources
+C:\Users\artec\source\repos\Project06\obj\Debug\Project06.csproj.GenerateResource.cache
+C:\Users\artec\source\repos\Project06\obj\Debug\Project06.csproj.CoreCompileInputs.cache
+C:\Users\artec\source\repos\Project06\obj\Debug\Project06.exe
+C:\Users\artec\source\repos\Project06\obj\Debug\Project06.pdb
+C:\Users\artec\source\repos\Project06\obj\Debug\Project06.csproj.CopyComplete
+C:\Users\artec\source\repos\Project06\bin\Debug\ScottPlot.dll
+C:\Users\artec\source\repos\Project06\bin\Debug\ScottPlot.WPF.dll
+C:\Users\artec\source\repos\Project06\bin\Debug\System.Drawing.Common.dll
+C:\Users\artec\source\repos\Project06\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\artec\source\repos\Project06\bin\Debug\System.ValueTuple.dll
+C:\Users\artec\source\repos\Project06\bin\Debug\ScottPlot.xml
+C:\Users\artec\source\repos\Project06\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\artec\source\repos\Project06\bin\Debug\System.ValueTuple.xml
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\bin\Debug\Project06.exe.config
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\bin\Debug\Project06.exe
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\bin\Debug\Project06.pdb
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\bin\Debug\ScottPlot.dll
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\bin\Debug\ScottPlot.WPF.dll
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\bin\Debug\System.Drawing.Common.dll
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\bin\Debug\System.ValueTuple.dll
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\bin\Debug\ScottPlot.xml
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\bin\Debug\System.ValueTuple.xml
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\obj\Debug\Project06.csproj.AssemblyReference.cache
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\obj\Debug\MainWindow.baml
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\obj\Debug\MainWindow.g.cs
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\obj\Debug\App.g.cs
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\obj\Debug\Project06_MarkupCompile.cache
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\obj\Debug\Project06.g.resources
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\obj\Debug\Project06.Properties.Resources.resources
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\obj\Debug\Project06.csproj.GenerateResource.cache
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\obj\Debug\Project06.csproj.CoreCompileInputs.cache
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\obj\Debug\Project06.csproj.CopyComplete
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\obj\Debug\Project06.exe
+C:\Users\artec\Desktop\Проекты по МДК 01.01\Project06\obj\Debug\Project06.pdb
+C:\Users\allya\Desktop\проекты\Project06\obj\Debug\Project06.csproj.AssemblyReference.cache
+C:\Users\allya\Desktop\проекты\Project06\obj\Debug\MainWindow.baml
+C:\Users\allya\Desktop\проекты\Project06\obj\Debug\MainWindow.g.cs
+C:\Users\allya\Desktop\проекты\Project06\obj\Debug\App.g.cs
+C:\Users\allya\Desktop\проекты\Project06\obj\Debug\Project06_MarkupCompile.cache
+C:\Users\allya\Desktop\проекты\Project06\obj\Debug\Project06.g.resources
+C:\Users\allya\Desktop\проекты\Project06\obj\Debug\Project06.Properties.Resources.resources
+C:\Users\allya\Desktop\проекты\Project06\obj\Debug\Project06.csproj.GenerateResource.cache
+C:\Users\allya\Desktop\проекты\Project06\obj\Debug\Project06.csproj.CoreCompileInputs.cache
+C:\Users\allya\Desktop\проекты\Project06\obj\Debug\Project06.exe
+C:\Users\allya\Desktop\проекты\Project06\obj\Debug\Project06.pdb
+C:\Users\artec\Desktop\Проекты по МДК\Project06\obj\Debug\Project06.csproj.AssemblyReference.cache
+C:\Users\artec\Desktop\Проекты по МДК\Project06\obj\Debug\MainWindow.baml
+C:\Users\artec\Desktop\Проекты по МДК\Project06\obj\Debug\MainWindow.g.cs
+C:\Users\artec\Desktop\Проекты по МДК\Project06\obj\Debug\App.g.cs
+C:\Users\artec\Desktop\Проекты по МДК\Project06\obj\Debug\Project06_MarkupCompile.cache
+C:\Users\artec\Desktop\Проекты по МДК\Project06\obj\Debug\Project06.g.resources
+C:\Users\artec\Desktop\Проекты по МДК\Project06\obj\Debug\Project06.Properties.Resources.resources
+C:\Users\artec\Desktop\Проекты по МДК\Project06\obj\Debug\Project06.csproj.GenerateResource.cache
+C:\Users\artec\Desktop\Проекты по МДК\Project06\obj\Debug\Project06.csproj.CoreCompileInputs.cache
+C:\Users\artec\Desktop\Проекты по МДК\Project06\obj\Debug\Project06.exe
+C:\Users\artec\Desktop\Проекты по МДК\Project06\obj\Debug\Project06.pdb
+C:\Users\artec\Desktop\Проекты по МДК\Project06\bin\Debug\Project06.exe.config
+C:\Users\artec\Desktop\Проекты по МДК\Project06\bin\Debug\Project06.exe
+C:\Users\artec\Desktop\Проекты по МДК\Project06\bin\Debug\Project06.pdb
+C:\Users\artec\Desktop\Проекты по МДК\Project06\bin\Debug\ScottPlot.dll
+C:\Users\artec\Desktop\Проекты по МДК\Project06\bin\Debug\ScottPlot.WPF.dll
+C:\Users\artec\Desktop\Проекты по МДК\Project06\bin\Debug\System.Drawing.Common.dll
+C:\Users\artec\Desktop\Проекты по МДК\Project06\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\artec\Desktop\Проекты по МДК\Project06\bin\Debug\System.ValueTuple.dll
+C:\Users\artec\Desktop\Проекты по МДК\Project06\bin\Debug\ScottPlot.xml
+C:\Users\artec\Desktop\Проекты по МДК\Project06\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\artec\Desktop\Проекты по МДК\Project06\bin\Debug\System.ValueTuple.xml
+C:\Users\artec\Desktop\Проекты по МДК\Project06\obj\Debug\Project06.csproj.CopyComplete

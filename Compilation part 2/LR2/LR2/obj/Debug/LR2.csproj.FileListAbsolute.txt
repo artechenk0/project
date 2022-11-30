@@ -1,0 +1,7 @@
+C:\Users\artec\Desktop\Compilation part 2\LR2\LR2\bin\Debug\LR2.exe.config
+C:\Users\artec\Desktop\Compilation part 2\LR2\LR2\bin\Debug\LR2.exe
+C:\Users\artec\Desktop\Compilation part 2\LR2\LR2\bin\Debug\LR2.pdb
+C:\Users\artec\Desktop\Compilation part 2\LR2\LR2\obj\Debug\LR2.csproj.AssemblyReference.cache
+C:\Users\artec\Desktop\Compilation part 2\LR2\LR2\obj\Debug\LR2.csproj.CoreCompileInputs.cache
+C:\Users\artec\Desktop\Compilation part 2\LR2\LR2\obj\Debug\LR2.exe
+C:\Users\artec\Desktop\Compilation part 2\LR2\LR2\obj\Debug\LR2.pdb

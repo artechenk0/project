@@ -1,0 +1,7 @@
+C:\Users\artec\Desktop\Compilation part 2\LR10\LR10\bin\Debug\LR10.exe.config
+C:\Users\artec\Desktop\Compilation part 2\LR10\LR10\bin\Debug\LR10.exe
+C:\Users\artec\Desktop\Compilation part 2\LR10\LR10\bin\Debug\LR10.pdb
+C:\Users\artec\Desktop\Compilation part 2\LR10\LR10\obj\Debug\LR10.csproj.AssemblyReference.cache
+C:\Users\artec\Desktop\Compilation part 2\LR10\LR10\obj\Debug\LR10.csproj.CoreCompileInputs.cache
+C:\Users\artec\Desktop\Compilation part 2\LR10\LR10\obj\Debug\LR10.exe
+C:\Users\artec\Desktop\Compilation part 2\LR10\LR10\obj\Debug\LR10.pdb

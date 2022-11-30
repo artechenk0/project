@@ -1,0 +1,7 @@
+C:\Users\artec\source\repos\LR23\LR23\bin\Debug\LR23.exe.config
+C:\Users\artec\source\repos\LR23\LR23\bin\Debug\LR23.exe
+C:\Users\artec\source\repos\LR23\LR23\bin\Debug\LR23.pdb
+C:\Users\artec\source\repos\LR23\LR23\obj\Debug\LR23.csproj.AssemblyReference.cache
+C:\Users\artec\source\repos\LR23\LR23\obj\Debug\LR23.csproj.CoreCompileInputs.cache
+C:\Users\artec\source\repos\LR23\LR23\obj\Debug\LR23.exe
+C:\Users\artec\source\repos\LR23\LR23\obj\Debug\LR23.pdb

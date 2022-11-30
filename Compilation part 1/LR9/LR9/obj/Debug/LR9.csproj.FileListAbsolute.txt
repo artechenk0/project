@@ -1,0 +1,7 @@
+C:\Users\allya\Desktop\Compilation part 1\LR9\LR9\bin\Debug\LR9.exe.config
+C:\Users\allya\Desktop\Compilation part 1\LR9\LR9\bin\Debug\LR9.exe
+C:\Users\allya\Desktop\Compilation part 1\LR9\LR9\bin\Debug\LR9.pdb
+C:\Users\allya\Desktop\Compilation part 1\LR9\LR9\obj\Debug\LR9.csproj.AssemblyReference.cache
+C:\Users\allya\Desktop\Compilation part 1\LR9\LR9\obj\Debug\LR9.csproj.CoreCompileInputs.cache
+C:\Users\allya\Desktop\Compilation part 1\LR9\LR9\obj\Debug\LR9.exe
+C:\Users\allya\Desktop\Compilation part 1\LR9\LR9\obj\Debug\LR9.pdb
